@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Imges">
+        <file>Open.ico</file>
+        <file>New.ICO</file>
+        <file>Save.ICO</file>
+        <file>button_preview_play.png</file>
+        <file>button_preview_stop.png</file>
+        <file>button_menu_open.png</file>
+        <file>button_menu_save.png</file>
+        <file>button_slide_add.png</file>
+        <file>button_slide_copy.png</file>
+        <file>button_slide_options.png</file>
+        <file>Black Grey Documents.png</file>
+        <file>img/bg-form.JPG</file>
+        <file>img/bg-form2.JPG</file>
+    </qresource>
+</RCC>
